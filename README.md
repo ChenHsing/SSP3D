@@ -10,21 +10,21 @@
 
 
 #train ShapeNet stage1
-python runner_shapenet.py
+#python runner_shapenet.py
 
 #train ShapeNet stage2
-Python runner_shapenet.py --finetune --weights=xxx.pth
+#Python runner_shapenet.py --finetune --weights=xxx.pth
 
 
 #test ShapeNet
-python runner_shapenet.py --test --weights=xxx.pth
+#python runner_shapenet.py --test --weights=xxx.pth
 
 
 #train Pix3D stage1
-python runner_pix3d.py
+#python runner_pix3d.py
 
 #train Pix3D stage2
-python runner_pix3d.py --finetune --weights=xxx.pth
+#python runner_pix3d.py --finetune --weights=xxx.pth
 
 #test Pix3D 
-python runner_pix3d.py --test --weights=xxx.pth
+#python runner_pix3d.py --test --weights=xxx.pth
