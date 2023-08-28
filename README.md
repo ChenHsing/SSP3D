@@ -1,4 +1,14 @@
-# SSP3D
+# SSP3D: Semi-supervised single-view 3d reconstruction via prototype shape priors
+
+```
+@inproceedings{xing2022semi,
+  title={Semi-supervised single-view 3d reconstruction via prototype shape priors},
+  author={Xing, Zhen and Li, Hengduo and Wu, Zuxuan and Jiang, Yu-Gang},
+  booktitle={ECCV},
+  year={2022}
+}
+```
+
 
 # Set ShapeNet datasets
 ```
